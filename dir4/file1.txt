@@ -1,0 +1,7 @@
+This is file1 in dir4
+
+First added line
+Second added line
+Third added line
+Forth added line
+Fifth added line
