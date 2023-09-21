@@ -7,3 +7,12 @@ of a multiline change.
 Second paragraph also part of the second PR.
 
 Another line part of the secodn PR
+
+More changes in dir2 to match the changes in dir1 as requested
+buy cumulus5. Keep in mind that this is different change.
+
+Need more lines to test the comments on the lines
+One more line.
+
+Bla bla bla lines
+
