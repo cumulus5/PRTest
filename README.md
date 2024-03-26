@@ -4,6 +4,7 @@ Repository to test PR workflow
 This repository is to be used to test PR workflows.
 
 Add a line in PR4
+Add second line in PR4 (as a separate commit)
 
 # Setup
 The main repository is owned by cumulus5. The other users line vasil will fork
